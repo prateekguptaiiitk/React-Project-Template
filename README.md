@@ -1,7 +1,7 @@
 ![alt text](https://miro.medium.com/proxy/1*rOMy957S7j5cD8wzAbHNYQ.png)
 
 
-# React-Project-Template
+# React Project Template
 Boilerplate code folder for starting Reactjs project using Webpack and Babel
 
 ## Usage
